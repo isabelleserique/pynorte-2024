@@ -1,5 +1,3 @@
-Aqui está o formato em `.md` com emojis e uma estrutura mais atrativa:
-
 # 🐍 Python Norte 2024 - Data Science 🌐
 
 Olá! Se você está aqui é porque gostou do conteúdo apresentado na **PyNorte** sobre **Data Science** ou está pronto para desenvolver seu próprio projeto de integração **API-to-GCP**. 🚀
